@@ -1,0 +1,6 @@
+cd <path where folder created>
+git clone -b master <branch name url(copy from git)>
+git status to check whether everything updated same in local repo and git
+want to add file from local repo to git -->git add <filename> or .(whole file)
+git commit -m  "<message name>"
+git push
